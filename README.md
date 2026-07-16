@@ -58,7 +58,7 @@ An e-commerce website concept combining Somali fashion and AI ideas.
 ## 🌍 Languages
 
 -- Somali
-
+-- English
 ---
 
 ## 📫 Connect With Me
